@@ -1,5 +1,6 @@
 # AGE
-Age and Gender Estimation
+
+# Age and Gender Estimation
 
 Age estimation is the determination of a person’s age based on biometric features. 
 
@@ -15,12 +16,7 @@ Face detection: To detect whether an image represent a face i.e. the general str
 
 
 
-# Age and Gender Estimation
 This is a Keras implementation of a CNN for estimating age and gender from a face image [1, 2].
-In training, [the IMDB-WIKI dataset](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/) is used.
-
-- [Jul. 5, 2018] The UTKFace dataset became available for training.
-- [Apr. 10, 2018] Evaluation result on the APPA-REAL dataset was added.
 
 ## Dependencies
 - Python3.5+
@@ -30,9 +26,7 @@ In training, [the IMDB-WIKI dataset](https://data.vision.ee.ethz.ch/cvl/rrothe/i
 - OpenCV3
 
 Tested on:
-- Ubuntu 16.04, Python 3.5.2, Keras 2.0.3, Tensorflow(-gpu) 1.0.1, Theano 0.9.0, CUDA 8.0, cuDNN 5.0
-  - CPU: i7-7700 3.60GHz, GPU: GeForce GTX1080
-- macOS Sierra, Python 3.6.0, Keras 2.0.2, Tensorflow 1.0.0, Theano 0.9.0
+- macOS High Sierra, Python 3.6.1, Keras 2.2.0, Tensorflow 1.9.0, Theano 1.0.2
 
 
 ## Usage
