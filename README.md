@@ -2,6 +2,8 @@
 
 # Age and Gender Estimation
 
+<img src="AGE-03.gif">
+
 Age estimation is the determination of a person’s age based on biometric features. 
 
 Although age estimation can be accomplished using different biometric traits, this project is focused on facial age estimation that relies on biometric features extracted from a person’s face. 
@@ -14,7 +16,10 @@ It is well known that the human-computer interaction varies for different age gr
 
 Face detection: To detect whether an image represent a face i.e. the general structure of face or not. General structure include forehead, eyes, nose, lips, chin etc.
 
-<img src="AGE-03.gif">
+In this version, I add the feature to calculate the generation, based on the the identified age. [8]
+<img src="http://assets.pewresearch.org/wp-content/uploads/var/www/vhosts/cms.pewresearch.org/htdocs/wp-content/blogs.dir/12/files/2018/04/11093240/FT_18.04.02_generationsDefined2017_working-age.png">
+
+## Implementation
 
 This is a Keras implementation of a CNN for estimating age and gender from a face image [1, 2].
 
@@ -259,6 +264,8 @@ without facial landmarks," in IJCV, 2016.
 [6] Age-gender-estimation project by Lav Solanki: https://github.com/lavsolanki/Age-Gender-estimation
 
 [7] Age-gender-estimation project by Yu4u: https://github.com/yu4u/age-gender-estimation
+
+[8] Generations: http://socialmarketing.org/archives/generations-xy-z-and-the-others/
 
 
 
