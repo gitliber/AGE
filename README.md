@@ -14,7 +14,7 @@ It is well known that the human-computer interaction varies for different age gr
 
 Face detection: To detect whether an image represent a face i.e. the general structure of face or not. General structure include forehead, eyes, nose, lips, chin etc.
 
-
+AGE-03.gif
 
 This is a Keras implementation of a CNN for estimating age and gender from a face image [1, 2].
 
