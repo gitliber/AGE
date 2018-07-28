@@ -267,7 +267,9 @@ without facial landmarks," in IJCV, 2016.
 
 [8] Generations: http://socialmarketing.org/archives/generations-xy-z-and-the-others/
 
-
+<br>
+<A Href="https://www.linkedin.com/in/jairribeiro/" target="_blank"><img src="https://raw.githubusercontent.com/gitliber/Basic_self_driving_car/master/LinkProf.jpeg" style="width: auto; height: auto; " /> <br>
+</A>
 
 
 
